@@ -30,7 +30,7 @@ I'm currently learning:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/> &nbsp;
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" title="Matplotlib"/> &nbsp;
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" title="Seaborn"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="40" title="Power BI"/> &nbsp;
+  <img src="https://download.logo.wine/logo/Power_BI/Power_BI-Logo.wine.png" width="50" alt="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/> &nbsp;
   <img src="https://avatars.githubusercontent.com/u/113800060?s=200&v=4" width="40" title="Quadratic AI"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/> &nbsp;
@@ -54,14 +54,10 @@ I'm currently learning:
 <p>
   <a href="https://www.linkedin.com/in/hamsinitr" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
-    &nbsp;LinkedIn
   </a>
-</p>
 
-<p>
   <a href="mailto:hamsinitr@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
-    &nbsp;Gmail
   </a>
 </p>
 
